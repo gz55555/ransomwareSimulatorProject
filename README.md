@@ -1,6 +1,6 @@
 # Ransomware Training Project Live Lab
-Environment Structure
-Virtualization
+## Environment Structure
+### Virtualization
 Platform: VirtualBox
 Network Components
 Firewall/Router: pfSense
